@@ -3,7 +3,7 @@ import os.path
 import streamlit as st
 from rich.jupyter import display
 from streamlit_navigation_bar import st_navbar as navbar
-from streamlit_navigation_bar.example import logo_path
+
 
 from Pages import Home, Project1, Project2 , Project3
 from PIL import Image
